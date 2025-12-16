@@ -1,5 +1,7 @@
 # 🤖 Tóm Tắt Nội Dung Tìm Hiểu Tuần 2: Supervised vs. Unsupervised Learning
 
+https://docs.google.com/document/d/12tTRXpUi6e80sCET2nzhdPZz5ZmGmD9-yNkjStORcZo/edit?usp=sharing
+
 Tài liệu này cung cấp cái nhìn tổng quan về hai phương pháp học máy cơ bản: Học có Giám sát (Supervised Learning) và Học không Giám sát (Unsupervised Learning), cùng với các bài toán và thuật toán tiêu biểu.
 
 ---
